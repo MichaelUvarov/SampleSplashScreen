@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Splash Screen</string>
+
+    <string name="result_success">Запрос обработан успешно</string>
+
+    <string name="login_toolbar_title">Вход в приложение</string>
+    <string name="login_hint">Ваш логин</string>
+    <string name="password_hint">Ваш пароль</string>
+    <string name="login_button_text">Войти</string>
+</resources>
